@@ -72,17 +72,6 @@ The following workflows are implemented in the movie recommendation system:
 - **Book search**: Users can search for specific books and view detailed information about them, including ratings and reviews.
 - **Recommendation generation**: The system generates book recommendations for each user based on collaborative filtering.
 
-## Project Specific Workflow:
-1. Update `config.yaml`.
-2. Update `secrets.yaml` (optional) for database credentials.
-3. Update `params.yaml`.
-4. Update the entity.
-5. Update the configuration manager in src config.
-6. Update the components.
-7. Update the pipeline.
-8. Update the main.py.
-
-Please note that these steps are specific to the project and should be followed accordingly for the movie recommendation system.
 
 ## Future Work
 Some potential areas for future improvement and expansion of the movie recommendation system include:
